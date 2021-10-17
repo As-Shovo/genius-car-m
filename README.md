@@ -5,9 +5,9 @@ Click Hare For Live Site [Genius car Mechanics](https://genius-car-mechanics-as.
 ## Available Scripts
 
 ### Steps
-** use Firebase Auth
-** googlesign in 
-** firebase deploy
+* use Firebase Auth
+* googlesign in 
+-- firebase deploy
 
 # important Thing
 make pages , use hooks , Contaxt Hook , Contaxt Api , useAuth , 
